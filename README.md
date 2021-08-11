@@ -1,2 +1,12 @@
-# midi_processor
-Utility project - toolbox for midi and real time audio processing
+Per ripulire la cartella obj:
+```
+make clean
+```
+Build prod:
+```
+make
+```
+Build debug:
+```
+make debug
+```

@@ -1,0 +1,7 @@
+[AUDIO] Output device opened without errors
+[MIDI] Opening input device: CoreMIDI masterkey 25
+Note played: 65[MIDI] NOTE ON - 208.000000 Hz
+[MIDI] status: 144, byte1: 65, byte2: 70, time: 0.918
+Note played: 65[MIDI] NOTE OFF
+[MIDI] status: 128, byte1: 65, byte2: 0, time: 1.004
+Note played: 0[MIDI] status: 224, byte1: 0, byte2: 51, t
